@@ -1,0 +1,6 @@
+DAY 1 - 7th January 2022
+Learning Linux
+- I am following the RHCSA Rise 1.0 Playlist my  Mr. Vimal Daga
+- I have previously covered till Session 11 
+Day Tasks 
+Session 12
