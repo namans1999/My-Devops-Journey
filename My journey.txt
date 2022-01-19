@@ -24,3 +24,8 @@ Started Computer Networks
 great day
 Completed the full networking video of Kunal Kushwaha made notes Great feeling
 Networking Part Done
+
+19th Jan 
+Session 18 & 19
+Started with Docker
+https://youtu.be/3c-iBn73dDE
