@@ -3,29 +3,29 @@ Learning Linux
 - I am following the RHCSA Rise 1.0 Playlist my  Mr. Vimal Daga
 - I have previously covered till Session 11 
 Day Tasks 
-Session 12
-Session 13
-
+-Session 12
+-Session 13
 8th Jan - 9th Jan Weekend Chilling
-
 10th Jan 2022
-Session 14 & Session 15
-
+-Session 14 & Session 15
 11th Jan 2022
-Session 16 & 17
-
+-Session 16 & 17
 12th jan 
-had high fever again break
-
+-had high fever again break
 17th jan
-Started Computer Networks
-
+-Started Computer Networks
 18th jan 
-great day
-Completed the full networking video of Kunal Kushwaha made notes Great feeling
-Networking Part Done
-
+-great day
+-Completed the full networking video of Kunal Kushwaha made notes Great feeling
+-Networking Part Done
 19th Jan 
-Session 18 & 19
-Started with Docker
-https://youtu.be/3c-iBn73dDE
+-Session 18 & 19(Linux)
+-Started with Docker
+-Docker Training with Mr. Vimal Daga on IIEC Connect
+-Session 0
+20th jan
+-Session 1
+21st jan 
+-Session 2
+22nd Jan 
+-Session 3
