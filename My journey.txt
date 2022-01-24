@@ -29,3 +29,10 @@ Day Tasks
 -Session 2
 22nd Jan 
 -Session 3
+-Session 4
+23rd Jan
+-Session 5
+-Session 6
+Finished Docker Traning
+Build a small project
+24th Jan
