@@ -36,3 +36,5 @@ Day Tasks
 Finished Docker Traning
 Build a small project
 24th Jan
+-Back To Linux RHCSA Training Session 20 -27 Covered
+- Started Building my first project
