@@ -38,3 +38,8 @@ Build a small project
 24th Jan
 -Back To Linux RHCSA Training Session 20 -27 Covered
 - Started Building my first project
+NOT WELL 
+25th - 31st Jan 2022
+YAML
+Git-Github
+Linux RHCSA Training Session 28-40
