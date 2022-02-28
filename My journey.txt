@@ -43,3 +43,5 @@ NOT WELL
 YAML
 Git-Github
 Linux RHCSA Training Session 28-40
+28th Febuary
+Done With Jenkins, Ansible, Python, Linux (RHEL), Kubernetes
