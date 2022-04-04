@@ -1,3 +1,13 @@
+I got my first Job as a DevOps Intern at Netomi
+I am sharing the resources through which i learned and Aced all my interview rounds and got the job In the First Interview
+Staring from the Basics you need to learn Linux
+
+
+
+
+
+
+
 DAY 1 - 7th January 2022
 Learning Linux
 - I am following the RHCSA Rise 1.0 Playlist my  Mr. Vimal Daga
